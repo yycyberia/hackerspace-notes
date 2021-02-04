@@ -9,6 +9,8 @@ both are \?purposeful?
 ## [[proposals]] can be in the following states:
 - backlog
 - selected for development
+- not enough support
+- requires redesign
 - in development
 - done
 - shelved
