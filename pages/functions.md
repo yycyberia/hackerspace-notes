@@ -7,4 +7,4 @@ somebody has to be legally responsible for the hardware, and limit antisocial us
 ### in the event of serious personality conflicts, the infrastructure council is the only entity that it makes sense to have veto powers
 ## Each [[project]] should be understood as a function
 ### Each [[project]] should have two [[supervisor]]s, in accordance with the buddy system
-###
+## The membership is
