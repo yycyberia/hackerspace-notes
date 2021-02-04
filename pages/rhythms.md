@@ -4,5 +4,5 @@ title: rhythms
 
 ## [[purpose]]
 ### [[values]]
-### vision
+### [[vision]]
 ##
