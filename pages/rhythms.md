@@ -11,4 +11,5 @@ both are \?purposeful?
 - in development
 - done
 - shelved
-### prio
+### [[initiatives]] are epics; they are prioritized in accordance with their tactical and strategic alignment to purpose
+##
