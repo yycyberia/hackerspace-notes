@@ -14,7 +14,10 @@ both are \?purposeful?
 - in development
 - done
 - shelved
-###
+### TODO solid means of backlog grooming
+:PROPERTIES:
+:todo: 1612477231589
+:END:
 ### [[initiatives]] are epics; they are prioritized in accordance with their tactical and strategic alignment to purpose
 ### TODO proposals need a solid means of ideation
 :PROPERTIES:
