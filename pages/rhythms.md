@@ -8,4 +8,5 @@ both are \?purposeful?
 ## [[proposals]] can be in the following states:
 - backlog
 - selected for development
--
+- in development
+- done
