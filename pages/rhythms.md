@@ -2,7 +2,8 @@
 title: rhythms
 ---
 
-## purpose
+## [[purpose]]
+###
 ### values
 ### vision
 ##
