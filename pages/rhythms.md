@@ -23,9 +23,4 @@ both are \?purposeful?
 :PROPERTIES:
 :todo: 1612470902121
 :END:
-###
-:PROPERTIES:
-:todo: 1612477165414
-:END:
-####
 ##
