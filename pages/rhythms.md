@@ -8,7 +8,7 @@ both are \?purposeful?
 ### [[strategy]] and [[tactics]] are expressions of vision, within the context of the world; oughts limited and realigned within ises
 ### [[strategy]] -> 3 yrs
 [[planning]] -> 12 mo
-[[tactics]]_ -> anything less
+[[tactics]]_ -> anything less https://loomio.coop/working_together/strategy
 ## [[proposals]] can be in the following states:
 - backlog
 - selected for development
