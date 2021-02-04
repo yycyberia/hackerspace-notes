@@ -12,4 +12,8 @@ both are \?purposeful?
 - done
 - shelved
 ### [[initiatives]] are epics; they are prioritized in accordance with their tactical and strategic alignment to purpose
+### TODO proposals need a solid means of ideation
+:PROPERTIES:
+:todo: 1612470902121
+:END:
 ##
