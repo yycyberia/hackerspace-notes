@@ -3,6 +3,6 @@ title: rhythms
 ---
 
 ## [[purpose]]
-### [[values]]
+### the organization's [[values]] allow it to accomplish its
 ### [[vision]]
 ##
