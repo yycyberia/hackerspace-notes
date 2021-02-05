@@ -23,4 +23,3 @@ Systems 5
 : [[loomio]]
 : [[Infrastructure Council]]
 : [[General Assembly Killer]]
-##
