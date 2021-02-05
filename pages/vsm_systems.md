@@ -7,4 +7,7 @@ title: VSM Systems
 
 Systems 2
 : [[supervisor]]
+: [[design systems]], [[component libraries]], [[common microservices]]
+: [[tekmil]] 
+:
 ##
