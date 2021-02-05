@@ -3,7 +3,8 @@ title: VSM Systems
 ---
 
 ## 1
-: [[membership]] 
+: [[membership]]
+: [[project]] 
 
 2
 : [[membership]]
