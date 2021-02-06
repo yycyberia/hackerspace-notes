@@ -17,7 +17,8 @@ Systems 3
 Systems 4
 : [[ideation]]
 : [[loomio]]
-: [[Infrastructure Council]] 
+: [[Infrastructure Council]]
+: tell people how to be listening all the time 
 
 Systems 5
 : [[loomio]]
