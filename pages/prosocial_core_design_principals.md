@@ -11,4 +11,7 @@ title: prosocial core design principals
 
 3
 : [[loomio]]
+
+7
+: [[loomio]]
 ##
