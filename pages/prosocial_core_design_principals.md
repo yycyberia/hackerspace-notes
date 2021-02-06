@@ -22,6 +22,7 @@ title: prosocial core design principals
 
 5
 : [[supervisor]] 
+: [[buddy system]] 
 
 6
 : [[tekmil]] 
