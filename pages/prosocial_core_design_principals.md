@@ -10,9 +10,19 @@ title: prosocial core design principals
 
 2
 : [[membership]] system
+: [[tekmil]] 
 
 3
 : [[loomio]]
+
+4
+: [[tekmil]] 
+
+5
+:
+
+6
+: [[tekmil]] 
 
 7
 : [[loomio]]
