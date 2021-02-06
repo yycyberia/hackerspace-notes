@@ -18,7 +18,7 @@ Systems 4
 : [[ideation]]
 : [[loomio]]
 : [[Infrastructure Council]]
-: tell people how to be listening all the time 
+: tell people how to be listening all the time like Paul 
 
 Systems 5
 : [[loomio]]
