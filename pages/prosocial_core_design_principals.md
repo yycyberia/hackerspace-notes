@@ -7,6 +7,7 @@ title: prosocial core design principals
 
 1
 : [[membership]] system
+: [[General Assembly Killer]] 
 
 2
 : [[membership]] system
