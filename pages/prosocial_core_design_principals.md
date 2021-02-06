@@ -25,6 +25,7 @@ title: prosocial core design principals
 
 6
 : [[tekmil]] 
+: [[supervisor]] 
 
 7
 : [[loomio]]
