@@ -14,4 +14,7 @@ title: prosocial core design principals
 
 7
 : [[loomio]]
+
+8
+: [[networked decision making tools]]
 ##
