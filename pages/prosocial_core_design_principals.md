@@ -18,9 +18,10 @@ title: prosocial core design principals
 
 4
 : [[tekmil]] 
+: [[supervisor]] 
 
 5
-:
+: [[supervisor]] 
 
 6
 : [[tekmil]] 
