@@ -38,9 +38,7 @@ MINUTES
 ## opening a bank account (where? - Servus?)
 ## Mark will look into and determine number of signatories required, options
 ## initial funding - grants - partnerships
-    
-
-*   could be an idea, Mark will look into
+## could be an idea, Mark will look into
     
 
   
