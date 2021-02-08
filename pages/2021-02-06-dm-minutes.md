@@ -27,7 +27,7 @@ MINUTES
 :END:
 ### creating supplemental documentation:
 #### policies
-##### TODO [[Liam]] and Mark will coordinate to work on
+##### TODO [[Liam]] and [[Mark]] will coordinate to work on
 :PROPERTIES:
 :todo: 1612827459834
 :END:
