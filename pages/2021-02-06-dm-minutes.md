@@ -6,7 +6,7 @@ title: 2021-02-06-dm-minutes
 :PROPERTIES:
 :heading: true
 :END:
-# 2021-02-06 --- 19:00-20:00  
+# 2021-02-06 --- 19:00-20:00
 :PROPERTIES:
 :heading: true
 :END:
