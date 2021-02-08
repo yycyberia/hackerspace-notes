@@ -19,8 +19,8 @@ MINUTES
 #### seems like we are all still on the same page
 ## 2. Next Steps:
 ### digital infrastructure (server[s], website, social media)
-## Jacob will work on and coordinate with Liam once server(s) installed
-## creating supplemental documentation:
+#### Jacob will work on and coordinate with Liam once server(s) installed
+### creating supplemental documentation:
 ## policies
 ## Liam and Mark will coordinate to work on
 ## [template](https://docs.google.com/document/d/1AfWPBVYEkmFEIUNGHcWGiAWRsRlQTM4D2T6XyBLO9ss/edit?usp=sharing
