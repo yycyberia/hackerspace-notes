@@ -5,10 +5,9 @@ title: 2021-02-06-dm-minutes
 ## (CYBERIA CAFE&[CODING]CLUB)
 # 2021-02-06 --- 19:00-20:00  
 # DIRECTOR MEETING  
-# MINUTES
+# MINUTES/
 
 ----------
-
 ## Call to Order
 
 ## Check In => How are you doing?
