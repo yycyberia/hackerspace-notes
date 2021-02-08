@@ -6,9 +6,6 @@ title: 2021-02-06-dm-minutes
 # 2021-02-06 --- 19:00-20:00
 # DIRECTOR MEETING
 # MINUTES
-:PROPERTIES:
-:heading: true
-:END:
 
 ----------
 ## Call to Order
