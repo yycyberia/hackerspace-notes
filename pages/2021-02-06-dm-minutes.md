@@ -37,8 +37,8 @@ MINUTES
 #### Mark
 ### opening a bank account (where? - Servus?)
 #### Mark will look into and determine number of signatories required, options
-## initial funding - grants - partnerships
-## could be an idea, Mark will look into
+### initial funding - grants - partnerships
+#### could be an idea, Mark will look into
 ## renting space - requirements - funding
 ## Liam will look into Communitywise as a starter option - can provide larger spaces for teaching classes - may be 200-300/month - we may need to occupy the space to some extent - they may not be open for 4-5 months.
 ## discuss Director replacement or additions
