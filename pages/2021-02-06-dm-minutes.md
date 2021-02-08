@@ -12,7 +12,7 @@ MINUTES
 ## Check In => How are you doing?
 ## 1. General Vision/Concept
 ### ideal visions - where do we want to end up?
-### doesn’t seem like it has changed
+#### doesn’t seem like it has changed
 ### practical visions near term in light of covid
     
 	`starting small and agile, working on documentation, looking into Communitywise`
