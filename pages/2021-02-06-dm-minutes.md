@@ -45,9 +45,9 @@ MINUTES
 :PROPERTIES:
 :todo: 1612827508455
 :END:
-### discuss Secretary
+### discuss [[Secretary]]
 #### [[Liam]]
-### discuss Treasurer
+### discuss [[Treasurer]]
 #### [[Mark]]
 ### opening a bank account (where? - Servus?)
 #### TODO [[Mark ]]will look into and determine number of signatories required, options
@@ -64,6 +64,6 @@ MINUTES
 :PROPERTIES:
 :todo: 1612827526217
 :END:
-### discuss Director replacement or additions
+### discuss [[Director ]]replacement or additions
 #### as we have quorum with 3, we can worry about this once we get going and more people are involved
 ## Chungus/Adjourn
