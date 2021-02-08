@@ -33,14 +33,8 @@ MINUTES
 ## Liam will draft and Mark will review
 ## discuss Secretary
 ## Liam
-    
-
-  
-
-*   discuss Treasurer
-    
-
-*   Mark
+## discuss Treasurer
+## Mark
     
 
   
