@@ -4,13 +4,7 @@ title: 2021-02-06-dm-minutes
 
 ## (CYBERIA CAFE&[CODING]CLUB)
 # 2021-02-06 --- 19:00-20:00
-:PROPERTIES:
-:heading: true
-:END:
 # DIRECTOR MEETING
-:PROPERTIES:
-:heading: true
-:END:
 # MINUTES
 :PROPERTIES:
 :heading: true
