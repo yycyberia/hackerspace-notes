@@ -54,7 +54,7 @@ MINUTES
 :PROPERTIES:
 :todo: 1612827514551
 :END:
-### initial funding - grants - partnerships
+### initial funding - [[grants]] - partnerships
 #### TODO could be an idea, [[Mark ]]will look into
 :PROPERTIES:
 :todo: 1612827520629
