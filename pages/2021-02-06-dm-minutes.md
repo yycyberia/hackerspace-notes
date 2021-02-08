@@ -34,7 +34,7 @@ MINUTES
 ##### [template](https://docs.google.com/document/d/1AfWPBVYEkmFEIUNGHcWGiAWRsRlQTM4D2T6XyBLO9ss/edit?usp=sharing)
 ##### [example](https://docum.ents.ca./GeneralPolicies-October2018.pdf)
 #### code of conduct
-##### TODO [[Liam]] and [[Mark]] w[[[Liam]]]ill coordinate to work on
+##### TODO [[Liam]] and [[Mark]] will coordinate to work on
 :PROPERTIES:
 :todo: 1612827500842
 :END:
