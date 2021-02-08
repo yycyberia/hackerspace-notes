@@ -13,7 +13,7 @@ MINUTES
 ## 1. General Vision/Concept
 ### ideal visions - where do we want to end up?
 #### doesn’t seem like it has changed
-### practical visions near term in light of covid
+### practical visions near term in light of [[covid]]
 #### starting small and agile, working on documentation, looking into [[Communitywise]]
 ### are our goals aligned?
 #### seems like we are all still on the same page
