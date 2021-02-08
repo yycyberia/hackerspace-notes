@@ -31,14 +31,8 @@ MINUTES
 ## [example](https://docum.ents.ca./CodeOfConduct.pdf)
 ## business plan - budget
 ## Liam will draft and Mark will review
-    
-
-  
-
-*   discuss Secretary
-    
-
-*   Liam
+## discuss Secretary
+## Liam
     
 
   
