@@ -15,10 +15,8 @@ MINUTES
 #### doesn’t seem like it has changed
 ### practical visions near term in light of covid
 #### starting small and agile, working on documentation, looking into Communitywise
-    
-*   are our goals aligned?
-    
-	*   seems like we are all still on the same page
+### are our goals aligned?
+### seems like we are all still on the same page
     
 2.  ## Next Steps:
     
