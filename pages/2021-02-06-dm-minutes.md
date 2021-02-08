@@ -21,8 +21,8 @@ MINUTES
 ### digital infrastructure (server[s], website, social media)
 #### Jacob will work on and coordinate with Liam once server(s) installed
 ### creating supplemental documentation:
-## policies
-## Liam and Mark will coordinate to work on
+#### policies
+#### Liam and Mark will coordinate to work on
 ## [template](https://docs.google.com/document/d/1AfWPBVYEkmFEIUNGHcWGiAWRsRlQTM4D2T6XyBLO9ss/edit?usp=sharing
 ## [example](https://docum.ents.ca./GeneralPolicies-October2018.pdf)
 ## code of conduct
