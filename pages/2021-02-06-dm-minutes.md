@@ -19,9 +19,10 @@ MINUTES
 #### seems like we are all still on the same page
 ## 2. Next Steps:
 ### digital infrastructure (server[s], website, social media)
-#### TODO Jacob will work on and coordinate with Liam once server(s) installed
+#### DONE Jacob will work on and coordinate with Liam once server(s) installed
 :PROPERTIES:
 :todo: 1612827471447
+:done: 1612827531970
 :END:
 ### creating supplemental documentation:
 #### policies
