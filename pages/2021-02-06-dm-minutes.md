@@ -60,7 +60,7 @@ MINUTES
 :todo: 1612827520629
 :END:
 ### renting space - requirements - funding
-#### TODO Liam will look into Communitywise as a starter option - can provide larger spaces for teaching classes - may be 200-300/month - we may need to occupy the space to some extent - they may not be open for 4-5 months.
+#### TODO [[Liam ]]will look into [[Communitywise ]]as a starter option - can provide larger spaces for teaching classes - may be 200-300/month - we may need to occupy the space to some extent - they may not be open for 4-5 months.
 :PROPERTIES:
 :todo: 1612827526217
 :END:
