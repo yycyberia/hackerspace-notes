@@ -11,7 +11,7 @@ MINUTES
 
 ## Check In => How are you doing?
 
-1. ## General Vision/Concept
+1. General Vision/Concept
     
 *   ideal visions - where do we want to end up?
     	`doesn’t seem like it has changed`
