@@ -22,8 +22,8 @@ MINUTES
 #### LATER Jacob will work on and coordinate with Liam once server(s) installed
 :PROPERTIES:
 :todo: 1612827471447
-:done: 1612827531970
 :later: 1612827533448
+:done: 1612827531970
 :END:
 ### creating supplemental documentation:
 #### policies
