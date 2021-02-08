@@ -53,7 +53,10 @@ MINUTES
 :todo: 1612827514551
 :END:
 ### initial funding - grants - partnerships
-#### could be an idea, Mark will look into
+#### TODO could be an idea, Mark will look into
+:PROPERTIES:
+:todo: 1612827520629
+:END:
 ### renting space - requirements - funding
 #### Liam will look into Communitywise as a starter option - can provide larger spaces for teaching classes - may be 200-300/month - we may need to occupy the space to some extent - they may not be open for 4-5 months.
 ### discuss Director replacement or additions
