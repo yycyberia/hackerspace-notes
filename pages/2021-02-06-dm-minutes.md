@@ -50,12 +50,12 @@ MINUTES
 ### discuss Treasurer
 #### [[Mark]]
 ### opening a bank account (where? - Servus?)
-#### TODO Mark will look into and determine number of signatories required, options
+#### TODO [[Mark ]]will look into and determine number of signatories required, options
 :PROPERTIES:
 :todo: 1612827514551
 :END:
 ### initial funding - grants - partnerships
-#### TODO could be an idea, Mark will look into
+#### TODO could be an idea, [[Mark ]]will look into
 :PROPERTIES:
 :todo: 1612827520629
 :END:
