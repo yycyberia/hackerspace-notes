@@ -41,7 +41,7 @@ MINUTES
 ##### [template](https://docs.google.com/document/d/1kGwts6JsH_4ObXs3Kgeyum66BW12EcXqibDFv2OnKIk/edit?usp=sharing)
 ##### [example](https://docum.ents.ca./CodeOfConduct.pdf)
 ### business plan - budget
-#### TODO Liam will draft and Mark will review
+#### TODO [[Liam]] will draft and [[Mark]] will review
 :PROPERTIES:
 :todo: 1612827508455
 :END:
