@@ -48,7 +48,10 @@ MINUTES
 ### discuss Treasurer
 #### Mark
 ### opening a bank account (where? - Servus?)
-#### Mark will look into and determine number of signatories required, options
+#### TODO Mark will look into and determine number of signatories required, options
+:PROPERTIES:
+:todo: 1612827514551
+:END:
 ### initial funding - grants - partnerships
 #### could be an idea, Mark will look into
 ### renting space - requirements - funding
