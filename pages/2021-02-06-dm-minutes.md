@@ -16,9 +16,7 @@ title: 2021-02-06-dm-minutes
 1. ## General Vision/Concept
     
 *   ideal visions - where do we want to end up?
-    
-	`doesn’t seem like it has changed`
-    
+    	`doesn’t seem like it has changed`
 *   practical visions near term in light of covid
     
 	`starting small and agile, working on documentation, looking into Communitywise`
@@ -109,6 +107,4 @@ title: 2021-02-06-dm-minutes
     
 
 *   as we have quorum with 3, we can worry about this once we get going and more people are involved
-    
-
 ## Chungus/Adjourn
