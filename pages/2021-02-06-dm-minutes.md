@@ -10,7 +10,7 @@ title: 2021-02-06-dm-minutes
 :PROPERTIES:
 :heading: true
 :END:
-# DIRECTOR MEETING  
+# DIRECTOR MEETING
 :PROPERTIES:
 :heading: true
 :END:
