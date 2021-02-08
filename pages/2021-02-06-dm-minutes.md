@@ -46,9 +46,9 @@ MINUTES
 :todo: 1612827508455
 :END:
 ### discuss Secretary
-#### Liam
+#### [[Liam]]
 ### discuss Treasurer
-#### Mark
+#### [[Mark]]
 ### opening a bank account (where? - Servus?)
 #### TODO Mark will look into and determine number of signatories required, options
 :PROPERTIES:
