@@ -18,7 +18,7 @@ MINUTES
 ### are our goals aligned?
 #### seems like we are all still on the same page
 ## 2. Next Steps:
-## digital infrastructure (server[s], website, social media)
+### digital infrastructure (server[s], website, social media)
 ## Jacob will work on and coordinate with Liam once server(s) installed
 ## creating supplemental documentation:
 ## policies
