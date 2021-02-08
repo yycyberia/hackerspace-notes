@@ -16,9 +16,8 @@ MINUTES
 ### practical visions near term in light of covid
 #### starting small and agile, working on documentation, looking into Communitywise
 ### are our goals aligned?
-### seems like we are all still on the same page
-    
-2.  ## Next Steps:
+#### seems like we are all still on the same page
+#### 2. Next Steps:
     
 *   digital infrastructure (server[s], website, social media)
     
