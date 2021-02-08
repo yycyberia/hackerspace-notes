@@ -31,9 +31,9 @@ MINUTES
 ##### [example](https://docum.ents.ca./CodeOfConduct.pdf)
 ### business plan - budget
 #### Liam will draft and Mark will review
-## discuss Secretary
-## Liam
-## discuss Treasurer
+### discuss Secretary
+#### Liam
+### discuss Treasurer
 ## Mark
 ## opening a bank account (where? - Servus?)
 ## Mark will look into and determine number of signatories required, options
