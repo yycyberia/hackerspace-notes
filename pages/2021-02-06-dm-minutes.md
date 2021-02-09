@@ -3,8 +3,7 @@ title: 2021-02-06-dm-minutes
 ---
 
 ## see also [[2021-02-06-dm-agenda]]
-##
-----------
+ ----------
 ## (CYBERIA CAFE & [CODING] CLUB)
 2021-02-06 --- 19:00-20:00
 DIRECTOR MEETING
