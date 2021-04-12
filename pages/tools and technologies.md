@@ -7,3 +7,5 @@ title: tools and technologies
 ## 32 inch TV
 ## myriad of cables
 ## raspberry pi
+## breadboard, pi accessory kit
+## soldering iron
