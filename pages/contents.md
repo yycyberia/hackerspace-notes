@@ -1,1 +1,1 @@
-## [[Calgary Hackerspace Society meeting minutes]]
+[[Calgary Hackerspace Society meeting minutes]]

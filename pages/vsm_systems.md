@@ -2,7 +2,7 @@
 title: VSM Systems
 ---
 
-## Systems 1
+Systems 1
 : [[membership]], [[projects]]
 
 Systems 2

@@ -3,6 +3,4 @@ title: project
 alias: projects
 ---
 
-## [[proposals]] 
-
-##
+[[proposals]]

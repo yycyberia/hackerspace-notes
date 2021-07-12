@@ -2,9 +2,9 @@
 title: prosocial core design principals
 ---
 
-## you need to make sure that everyone who's affected by a rule can help redesign it
-## and the community in general?
-## CDP:
+you need to make sure that everyone who's affected by a rule can help redesign it
+and the community in general?
+CDP:
 
 1
 : [[membership]] system
@@ -35,4 +35,3 @@ title: prosocial core design principals
 
 8
 : [[networked decision making tools]]
-##
