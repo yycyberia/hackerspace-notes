@@ -2,5 +2,5 @@
 	- [[python [[hackathon]]]]
 	- [[react [[hackathon]]]]
 	- [[linux installathon]]
-	- Poetry / Textual art / typesetting hackathon
+	- Poetry / [[Textual art]] / typesetting hackathon
 	- Music / [[Synth]] hackathon
