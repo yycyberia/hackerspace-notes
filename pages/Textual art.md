@@ -1,3 +1,3 @@
 - Jacob's friend recommended we get in touch w
 	- http://www.theblastedtree.com/kyle-flemmer
-	-
+	- the guy that runs [shed](https://www.instagram.com/shedbookstore/)
