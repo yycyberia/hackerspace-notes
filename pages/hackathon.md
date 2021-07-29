@@ -3,4 +3,4 @@
 	- [[react [[hackathon]]]]
 	- [[linux installathon]]
 	- Poetry / Textual art / typesetting hackathon
-	- Music
+	- Music / [[Synth]] hackathon
